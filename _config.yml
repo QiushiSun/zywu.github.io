@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiyong Wu (吴志勇)"
-description              : "Research scientist in Shanghai AI Lab"
+title                    : "Zhiyong Wu"
+description              : "Research scientist in Bytedance Seed"
 repository               : "LividWo/zywu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Zhiyong Wu (吴志勇)"
+  name             : "Zhiyong Wu"
   avatar           : "images/profile.png"
-  bio              : "Shanghai AI Lab"
-  location         : "Shanghai, China"
+  bio              : "吴志勇"
+  location         : "Shenzhen/Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wIlpfXEAAAAJ"
